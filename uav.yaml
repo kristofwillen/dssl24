@@ -1,0 +1,7 @@
+---
+path: /Users/bcg213/src/datascience/dssl24/UAV
+train: train/images
+val: val/images
+
+names:
+  0.0: drone
