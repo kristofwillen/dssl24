@@ -1,5 +1,5 @@
 ---
-path: /Users/bcg213/src/datascience/dssl24/UAV
+path: /Users/kristof/src/datascience/dssl24/UAV
 train: train/images
 val: val/images
 

@@ -5,8 +5,8 @@ data: uav.yaml
 epochs: 1
 time: null
 patience: 100
-batch: 80
-imgsz: 390
+batch: 8
+imgsz: 400
 save: true
 save_period: -1
 cache: false
