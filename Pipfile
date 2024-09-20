@@ -12,7 +12,9 @@ scikit-learn = "*"
 torchvision = "*"
 opencv-python = "*"
 torch = "*"
-ultralytics = "*"
+ultralytics = "==8.2.58"
+tensorflow = "*"
+imutils = "*"
 
 [dev-packages]
 
